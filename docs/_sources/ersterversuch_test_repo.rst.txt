@@ -1,0 +1,7 @@
+ersterversuch\_test\_repo module
+================================
+
+.. automodule:: ersterversuch_test_repo
+   :members:
+   :undoc-members:
+   :show-inheritance:
