@@ -1,10 +1,9 @@
-.. Doc-Test documentation master file, created by
-   sphinx-quickstart on Mon Mar 28 20:25:15 2022.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Welcome to Doc-Test's documentation!
 ====================================
+
+
+.. automodule:: test_project.main
+    :members:
 
 .. toctree::
    :maxdepth: 2
