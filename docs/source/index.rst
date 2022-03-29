@@ -2,7 +2,7 @@ Welcome to Doc-Test's documentation!
 ====================================
 
 
-.. automodule:: test_project.main
+.. automodule:: main
     :members:
 
 .. toctree::

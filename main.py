@@ -1,6 +1,6 @@
 from numbers import Number
 
-test_var = 0
+test_var: Number = 0
 
 class Test_Class:
     """An example docstring for a class definition."""
